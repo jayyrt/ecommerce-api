@@ -15,7 +15,7 @@ The goal is to better understand how the client (frontend application) and serve
 
 ### Summary
 
-We're starting from a clean slate. We'll be building our backend service from start to finish. Often, you'll have some boilerplate code to start with. `Boilerplate` is a term that describes starter or framework code. For instance, `create-react-app` generates boiler plate code for us, things like our `package.json`, `node_modules`, the `src` directory, etc. Here we won't have any of that so we'll need to create it ourselves.
+We're starting from a clean slate. We'll be building our backend service from start to finish. Often, you'll have some boilerplate code to start with. `Boilerplate` is a term that describes starter or framework code. For instance, `create-react-app` generates boiler plate code for us, things like our `package.json`, `node_modules`, the `src` directory, etc. Here we won't have any of that so we'll need to create it obn urselves.
 
 ### Instructions
 
